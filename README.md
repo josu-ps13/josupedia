@@ -1,4 +1,4 @@
-Summaries I have made along my years of study. Includes mathematical formulas, visual elements and code. Currently two topics:
+Summaries I have made along my years of study. They include mathematical formulas, visual elements and code. Currently two topics:
 
 * **Summary on Medical Image Processing**: a compendium of image enhancement, filtering, segmentation, registration, visualization, compression and classification techniques, learned during my Degree on Biomedical Engineering at UC3M.
 
